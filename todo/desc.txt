@@ -1,0 +1,2 @@
+this was one of my first projects. 
+made this in vanilla javascript. again the good old todo list application every beginner builds but abit more robust.

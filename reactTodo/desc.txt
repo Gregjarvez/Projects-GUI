@@ -1,0 +1,1 @@
+this is the good old todo app every beginner builds. i did mine in react and made it somewhat robust and useful . i hope you like it ::))))
